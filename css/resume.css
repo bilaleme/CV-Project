@@ -32,6 +32,10 @@ a.active{
 	font-size:25px;
 }
   
+.badge{
+font-size:18px;
+}
+  
 #awards li{
 	font-size:18px;
 	font-weight:bold;
